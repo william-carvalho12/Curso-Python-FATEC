@@ -1,0 +1,1 @@
+print ("Eu", "sou", "a", "funcao", "print", sep=" ", end="/n")
